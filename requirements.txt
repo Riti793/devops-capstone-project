@@ -1,4 +1,4 @@
-#Pin dependancies that might cause breakage
+# Pin dependancies that might cause breakage
 Werkzeug==2.2.2
 
 # Build dependencies
