@@ -1,4 +1,4 @@
-name: CI Buildd
+name: CI Build
 on:
   push:
     branches:
